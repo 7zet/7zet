@@ -65,7 +65,7 @@ Currently working on a taxi app for a specific district — improving service qu
 ## 📫 Let's Connect
 
 - **GitHub:** [github.com/7zet](https://github.com/7zet)
-- **Telegram:** [@vhror] 
+- **Telegram:** [[@vhror](https://t.me/vhror)] 
 - **Email:** ahror20006@gmail.com 
 
 ---
